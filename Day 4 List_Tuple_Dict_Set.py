@@ -163,15 +163,15 @@ y = {"google", "microsoft", "apple"}
 z = x.symmetric_difference(y)
 print(z)
 
-# Now lastly talk abbout python dictionary
+# Now lastly talk about python dictionary
 d = {}
 # Adding the key value pair
 d[5] = "Five"
 d[10] = "Ten"
-print("Dictonary", d)
+print("Dictionary", d)
 # Removing key-value pair
 del d[10]
-print("Dictonary", d)
+print("Dictionary", d)
 
 thisdict = {
     "brand": "Ford",
