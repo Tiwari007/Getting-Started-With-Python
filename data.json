@@ -1,0 +1,12 @@
+{
+  "User_Details" : [
+    {
+      "name": "Bucky",
+      "age": 22
+    },
+    {
+      "name": "Alita",
+      "age": 21
+    }
+  ]
+}
