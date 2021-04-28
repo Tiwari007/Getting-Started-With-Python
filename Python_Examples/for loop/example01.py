@@ -22,5 +22,3 @@ for number in ls:
 
 for i in range(len(ls)):
     print(ls[i])
-
-    

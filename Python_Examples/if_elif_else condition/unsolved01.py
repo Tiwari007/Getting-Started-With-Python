@@ -5,8 +5,7 @@
 # If the user enters "smh", print "shaking my head".
 
 
-
-abbreviation= input()
+abbreviation = input()
 
 if abbreviation == "lol":
     print("Laughing out loud")
@@ -18,4 +17,3 @@ elif abbreviation == "smh":
     print("shaking my head")
 else:
     print("Abbreviation not found please enter new i/p")
-    
